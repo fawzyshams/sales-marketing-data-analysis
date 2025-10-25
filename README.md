@@ -179,5 +179,3 @@ Here is a snapshot of the dashboard:
 5. **Leverage Top Markets**: UK and US show strong consistent performance - maintain market share
 
 ---
-
-Made with ❤️ using Power BI
