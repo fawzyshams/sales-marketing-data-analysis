@@ -123,7 +123,7 @@ Created advanced calculations for revenue growth, profit margins, cost analysis,
 
 Here is a snapshot of the dashboard:
 
-![Sales & Marketing Dashboard](dashboard_screenshot.png)
+![Sales Dashboard](sales%20%26%20marketing%20data%20analysis/sales%20dashboard.png)
 
 ---
 
