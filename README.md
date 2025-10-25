@@ -177,5 +177,3 @@ Here is a snapshot of the dashboard:
 3. **Focus on High-Growth Markets**: South Korea shows 25.07% revenue growth - expand operations
 4. **Cost Optimization**: Cost growing faster (5.21%) than revenue (4.75%) - review cost structure
 5. **Leverage Top Markets**: UK and US show strong consistent performance - maintain market share
-
----
