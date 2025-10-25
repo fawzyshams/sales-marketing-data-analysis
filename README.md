@@ -180,7 +180,4 @@ Here is a snapshot of the dashboard:
 
 ---
 
-
----
-
 Made with ❤️ using Power BI
